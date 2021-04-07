@@ -1,6 +1,6 @@
 # Motivating Questions
 
-1. Are there any notable keywords or phrases that the source tends to use for negative reviews? How
+1. Are there any notable keywords or phrases that the Pitchfork tends to use for negative reviews? How
 about for positive or average reviews?
 2. Over the years cataloged do any genres show trends of becoming more positively or negatively reviewed?
 Any displayed biases towards genres or specific artists?
