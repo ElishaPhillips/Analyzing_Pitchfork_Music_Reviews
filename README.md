@@ -26,5 +26,5 @@ The initial overview by album release year shows how albums from previous years 
 
 ![Pitchfork Score Distribution Boxplot](https://github.com/ElishaPhillips/DATA-115-Personal-Dataset-Project/blob/main/Analysis/Main/PitchforkGenreScoreBoxplot.png)
 
-
+To investigate the distributional characteristics, I made a boxplot, sorted by genre. The median scores all hover around 7.0-7.5, and the overall distribution is either centered or slightly left skewed. Rock clearly holds the largest number of scores, and Global trends towards the highest median while being the lowest sample size.
 # Analytical Technique
