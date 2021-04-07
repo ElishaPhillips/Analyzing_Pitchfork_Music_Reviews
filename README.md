@@ -13,6 +13,7 @@ Final focus:
 # Data Process
 
 I sourced my data from David Nolan's web scrape of all Pitchfork reviews from 1999-2017
+  
   https://www.kaggle.com/nolanbconaway/pitchfork-data
   
 I exported the individual tables through RazorSQL, and used RStudio to compile. Cleaning involved filtering out duplicate reviews, and filling missing data. I compiled all the albums without genre tags as "Miscellaneous", and albums missing a release date I copied over the Pitchfork review year. I split the datasets according to genre to perform further analysis. 
