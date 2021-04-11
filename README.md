@@ -1,4 +1,4 @@
-### _Personal Dataset for the semester, work in progress_
+### _Personal dataset project for the semester, work in progress_
 # Motivating Questions
 
 Initial Questions:
@@ -31,3 +31,5 @@ To investigate the distributional characteristics, I made a boxplot, sorted by g
 # Analytical Technique
 
 # Sentiment Analysis 
+
+
