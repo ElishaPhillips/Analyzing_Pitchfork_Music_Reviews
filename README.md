@@ -32,4 +32,28 @@ To investigate the distributional characteristics, I made a boxplot, sorted by g
 
 # Sentiment Analysis 
 
+#### Rock Main Sentiment Analysis:
+
+![a](https://github.com/ElishaPhillips/DATA-115-Personal-Dataset-Project/blob/c7a42b0addbbdc805b3f822c0fa95e866f85458a/Analysis/Sentiment/PitchforkRockEmotionAlbumMainJitter.png)
+
+#### Rock Sentiment Scores:
+
+![a](https://github.com/ElishaPhillips/DATA-115-Personal-Dataset-Project/blob/c7a42b0addbbdc805b3f822c0fa95e866f85458a/Analysis/Sentiment/PitchforkRockSentimentAlbum.png)
+
+![a](https://github.com/ElishaPhillips/DATA-115-Personal-Dataset-Project/blob/c7a42b0addbbdc805b3f822c0fa95e866f85458a/Analysis/Sentiment/PitchforkRockSentimentScore.png)
+
+
+#### Experimental Sentiment Scores:
+![a](https://github.com/ElishaPhillips/DATA-115-Personal-Dataset-Project/blob/c7a42b0addbbdc805b3f822c0fa95e866f85458a/Analysis/Sentiment/PitchforkExperimentalSentimentAlbum.png)
+
+![a](https://github.com/ElishaPhillips/DATA-115-Personal-Dataset-Project/blob/c7a42b0addbbdc805b3f822c0fa95e866f85458a/Analysis/Sentiment/PitchforkExperimentalSentimentScore.png)
+
+
+
+
+
+
+
+
+
 
