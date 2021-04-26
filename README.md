@@ -51,13 +51,20 @@ Results:
 
 The most commonly used keywords:
 
-Black [Negative] Frequency: 504 Avg Score: 6.85
-New [Positive] Frequency: 437 Avg Score: 6.24
-Death [Negative] Frequency: 362 Avg Score: 6.70
-Work [Positive] Frequency: 254 Avg Score: 6.56
-Best [Positive] Frequency: 232 Avg Score: 6.41
-Well [Positive] Frequency: 219 Avg Score: 6.41
-Noise [Negative] Frequency: 192 Avg Score: 6.75
-Doom [Positive] Frequency: 183 Avg Score: 7.03
+> Black [Negative] Frequency: 504 Avg Score: 6.85
+
+> New [Positive] Frequency: 437 Avg Score: 6.24
+
+> Death [Negative] Frequency: 362 Avg Score: 6.70
+
+> Work [Positive] Frequency: 254 Avg Score: 6.56
+
+> Best [Positive] Frequency: 232 Avg Score: 6.41
+
+> Well [Positive] Frequency: 219 Avg Score: 6.41
+
+> Noise [Negative] Frequency: 192 Avg Score: 6.75
+
+> Doom [Positive] Frequency: 183 Avg Score: 7.03
 
 
