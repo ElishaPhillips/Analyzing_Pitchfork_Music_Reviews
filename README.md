@@ -1,4 +1,3 @@
-### _Personal dataset project for the semester, work in progress_
 # Motivating Questions
 
 Initial Questions:
