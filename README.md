@@ -42,7 +42,7 @@ I utilized Sentimentr to analyze the content of the reviews, after splitting off
 # Keyword Analysis 
 Here, I focused on the Metal genre. My processing steps involved using UDPipe to annotate the UPOS and SentimentR to extract the individual sentences out of each review. Each word was categorized to positive, negative, or neutral and I cleaned the data further by filtering down to Nouns, Adjectives, and Verbs. Any punctuation or stopwords were removed as well. Focusing on the Positive/Negative words I filtered out a smaller sample set of 400 words: 200 from the most frequent 200 words, and 200 that was randomly split along the remaining set. 
 
-I then aggregated the total count and total review score for each word, plotting in an interactive HTML plot to be able to view and select each keyword and look at the relevant score, frequency and sentiment. The result:
+I then aggregated the total count and total review score for each word, plotting in an interactive HTML plot to be able to view and select each keyword and look at the relevant score, frequency and sentiment. 
 
 ![a](https://github.com/ElishaPhillips/DATA-115-Personal-Dataset-Project/blob/cd79a32e2d9a7a2982957b2134e64985c71ec9bb/Analysis/Sentiment/Graph.PNG)
 
